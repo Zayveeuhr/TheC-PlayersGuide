@@ -1,3 +1,20 @@
 <Solution>
+  <Project Path="Distraction/Distraction.csproj" />
+  <Project Path="Ditches/Ditches.csproj" />
+  <Project Path="FarmFeilds/FarmFeilds.csproj" />
+  <Project Path="ProgrammersFirstCrash/ProgrammersFirstCrash.csproj" />
+  <Project Path="Reset/Reset.csproj" Id="3998fc93-2f08-47f1-bd72-be50543174c2" />
+  <Project Path="TheDominionOfKings/TheDominionOfKings.csproj" />
+  <Project Path="TheEnclaveGatewatpartThree/TheEnclaveGatewatpartThree.csproj" Id="02535f82-46a4-47c1-a230-6eda5705f6fb" />
+  <Project Path="TheEnclaveGatewayPartFive/TheEnclaveGatewayPartFive.csproj" Id="5acb2f3e-e52c-44bb-9fab-32e7bd8bfa0e" />
+  <Project Path="TheEnclaveGatewayPartFour/TheEnclaveGatewayPartFour.csproj" Id="4cca726c-03a1-41d7-96fc-e6047b9fb335" />
+  <Project Path="TheEnclaveGatewayPartOne/TheEnclaveGatewayPartOne.csproj" Id="d050349e-8956-4ddb-8b3d-4d2e17a56eb7" />
+  <Project Path="TheEnclaveGatewayPartTwo/TheEnclaveGatewayPartTwo.csproj" Id="108a0f1d-2c4c-4aa4-9b27-37edce2e1482" />
+  <Project Path="TheFourSistersAndTheDuickbear/TheFourSistersAndTheDuickbear.csproj" Id="62acf6e1-6b58-4d15-8764-a80060be4bcd" />
+  <Project Path="TheGuidestonePartTwo/TheGuidestonePartTwo.csproj" Id="95eda5b4-e177-424a-9b0b-ff511a422e3d" />
+  <Project Path="TheGuidstonePartOne/TheGuidstonePartOne.csproj" Id="ddf53716-68b6-4c04-9005-fbd68b616d31" />
   <Project Path="ThePlayersGuide/ThePlayersGuide.csproj" />
+  <Project Path="TheTrapPartOne/TheTrapPartOne.csproj" Id="1bf1b5de-8b3a-4b3f-9beb-1a00ba087035" />
+  <Project Path="TheTrapPartTwo/TheTrapPartTwo.csproj" Id="2eb195a9-b54b-4364-af20-a7aedf1cc83f" />
+  <Project Path="ThreeTypes/ThreeTypes.csproj" />
 </Solution>
