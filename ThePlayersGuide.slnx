@@ -2,6 +2,7 @@
   <Project Path="Distraction/Distraction.csproj" />
   <Project Path="Ditches/Ditches.csproj" />
   <Project Path="FarmFeilds/FarmFeilds.csproj" />
+  <Project Path="MustGoFaster/MustGoFaster.csproj" Id="ff4071c3-0f52-4427-8e3f-4d565f74f9f3" />
   <Project Path="ProgrammersFirstCrash/ProgrammersFirstCrash.csproj" />
   <Project Path="Reset/Reset.csproj" Id="3998fc93-2f08-47f1-bd72-be50543174c2" />
   <Project Path="TheDominionOfKings/TheDominionOfKings.csproj" />
