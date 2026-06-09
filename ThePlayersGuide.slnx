@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="AnInterpolationExperiment/AnInterpolationExperiment.csproj" Id="a8661915-ab4b-4d9d-933f-e99164bf20df" />
+  <Project Path="CombinationLock/CombinationLock.csproj" Id="b68de1ba-2334-46a1-ac36-7555e3588e75" />
   <Project Path="Distraction/Distraction.csproj" />
   <Project Path="Ditches/Ditches.csproj" />
   <Project Path="FarmFeilds/FarmFeilds.csproj" />
